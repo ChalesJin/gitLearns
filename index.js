@@ -1,1 +1,1 @@
-console.warn('index.js')
+console.warn('index2.js')
